@@ -64,6 +64,7 @@ The objective of this project is to:
 
 ## 📂 Project Structure
 
+```
 App-Analytics-Dashboard/
 │
 ├── Dashbord.png
@@ -80,8 +81,7 @@ App-Analytics-Dashboard/
     ├── Product_Icon_Blue.png
     ├── google-play.png
     └── Project_layout_points (1).docx
-
----
+```
 
 ## 🚀 Skills Demonstrated
 
