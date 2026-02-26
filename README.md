@@ -1,6 +1,12 @@
-📊 Google Play Store App Analytics Dashboard | Power BI Project
-<p align="center"> <img src="./Dashbord.png" width="1000"> </p>
-📌 Project Overview
+# 📊 Google Play Store App Analytics Dashboard | Power BI Project
+
+<p align="center">
+  <img src="./Dashbord.png" width="1000">
+</p>
+
+---
+
+## 📌 Project Overview
 
 The Google Play Store App Analytics Dashboard is an interactive Power BI project designed to analyze and visualize mobile application market data.
 
@@ -8,63 +14,56 @@ This dashboard transforms raw Play Store data into meaningful insights to suppor
 
 It focuses on:
 
-App install trends
+- App install trends
+- Category-wise performance
+- Pricing analysis
+- User ratings & review behavior
+- Content rating distribution
 
-Category-wise performance
+---
 
-Pricing analysis
-
-User ratings & review behavior
-
-Content rating distribution
-
-🎯 Business Objective
+## 🎯 Business Objective
 
 The objective of this project is to:
 
-Identify high-performing app categories
+- Identify high-performing app categories
+- Analyze pricing strategies of paid vs free apps
+- Study user rating distribution
+- Understand review engagement patterns
+- Enable data-driven strategic decisions
 
-Analyze pricing strategies of paid vs free apps
+---
 
-Study user rating distribution
+## 📈 Key Performance Indicators (KPIs)
 
-Understand review engagement patterns
+- 📥 946M+ Total Installs
+- 💲 $7.0 Average Price
+- ⭐ 4.27 Average Rating
 
-Enable data-driven strategic decisions
+---
 
-📈 Key Performance Indicators (KPIs)
+## 📊 Key Insights Derived
 
-📥 946M+ Total Installs
+- 🎮 The Game category dominates in installs and reviews
+- 👨‍👩‍👧 “Everyone” content rating represents the majority of apps
+- 💰 Paid apps follow distinct pricing distribution patterns
+- 📊 Review analysis reveals strong engagement in specific categories
+- 📈 Category-wise trends help understand market positioning
 
-💲 $7.0 Average Price
+---
 
-⭐ 4.27 Average Rating
+## 🛠 Tools & Technologies Used
 
-📊 Key Insights Derived
+- Power BI – Dashboard Development
+- Power Query – Data Cleaning & Transformation
+- DAX – KPI & Measure Creation
+- Microsoft Excel – Data Preparation
+- Data Modeling Techniques
 
-🎮 The Game category dominates in installs and reviews
+---
 
-👨‍👩‍👧 “Everyone” content rating represents the majority of apps
+## 📂 Project Structure
 
-💰 Paid apps follow distinct pricing distribution patterns
-
-📊 Review analysis reveals strong engagement in specific categories
-
-📈 Category-wise trends help understand market positioning
-
-🛠 Tools & Technologies Used
-
-Power BI – Dashboard Development
-
-Power Query – Data Cleaning & Transformation
-
-DAX – KPI & Measure Creation
-
-Microsoft Excel – Data Preparation
-
-Data Modeling Techniques
-
-📂 Project Structure
 App-Analytics-Dashboard/
 │
 ├── Dashbord.png
@@ -81,54 +80,49 @@ App-Analytics-Dashboard/
     ├── Product_Icon_Blue.png
     ├── google-play.png
     └── Project_layout_points (1).docx
-🚀 Skills Demonstrated
 
-Data Cleaning & Transformation
+---
 
-Data Modeling
+## 🚀 Skills Demonstrated
 
-KPI Development
+- Data Cleaning & Transformation
+- Data Modeling
+- KPI Development
+- DAX Measures
+- Interactive Dashboard Design
+- Business Insight Generation
+- Analytical Thinking
 
-DAX Measures
+---
 
-Interactive Dashboard Design
-
-Business Insight Generation
-
-Analytical Thinking
-
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 The dashboard provides a clear and interactive visualization of:
 
-Total installs by category
+- Total installs by category
+- Review distribution
+- Pricing insights
+- Rating performance
+- Content rating segmentation
 
-Review distribution
+---
 
-Pricing insights
-
-Rating performance
-
-Content rating segmentation
-
-💡 Learning Outcomes
+## 💡 Learning Outcomes
 
 Through this project, I enhanced my skills in:
 
-Real-world dataset handling
+- Real-world dataset handling
+- Designing business-focused dashboards
+- Writing optimized DAX formulas
+- Creating visually structured reports
+- Extracting actionable insights from data
 
-Designing business-focused dashboards
+---
 
-Writing optimized DAX formulas
+## 👨‍💻 Author
 
-Creating visually structured reports
-
-Extracting actionable insights from data
-
-👨‍💻 Author
-
-Raushan Kumar
+Raushan Kumar  
 Aspiring Data Analyst | Power BI Developer
 
-📊 Skilled in: Power BI, Excel, DAX, Data Cleaning
+📊 Skilled in: Power BI, Excel, DAX, Data Cleaning  
 📈 Interested in: Data Analytics, Business Intelligence, Data Visualization
