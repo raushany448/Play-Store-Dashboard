@@ -65,24 +65,22 @@ Microsoft Excel – Data Preparation
 Data Modeling Techniques
 
 📂 Project Structure
-
 App-Analytics-Dashboard/
-
+│
 ├── Dashbord.png
 ├── Play_store.pbix
 ├── README.md
-
+│
 └── Project_Data/
-  ├── cleaned_ps_data.xlsx
-  ├── cleaned_ur_data.xlsx
-  ├── Customer_Icon_Blue.png
-  ├── Dashboard_Icon_Blue.png
-  ├── Filter_Icon_Blue.png
-  ├── Map_Icon_Blue.png
-  ├── Product_Icon_Blue.png
-  ├── google-play.png
-  └── Project_layout_points (1).docx
-
+    ├── cleaned_ps_data.xlsx
+    ├── cleaned_ur_data.xlsx
+    ├── Customer_Icon_Blue.png
+    ├── Dashboard_Icon_Blue.png
+    ├── Filter_Icon_Blue.png
+    ├── Map_Icon_Blue.png
+    ├── Product_Icon_Blue.png
+    ├── google-play.png
+    └── Project_layout_points (1).docx
 🚀 Skills Demonstrated
 
 Data Cleaning & Transformation
