@@ -1,9 +1,36 @@
-📊 Google Play Store App Analytics Dashboard
-<p align="center"> <img src="Dashbord.png" width="900"> </p>
+📊 Google Play Store App Analytics Dashboard | Power BI Project
+<p align="center"> <img src="./Dashbord.png" width="1000"> </p>
 📌 Project Overview
 
-This project presents an interactive Power BI dashboard analyzing Google Play Store application data.
-The objective is to uncover insights about installs, ratings, pricing trends, and user engagement patterns.
+The Google Play Store App Analytics Dashboard is an interactive Power BI project designed to analyze and visualize mobile application market data.
+
+This dashboard transforms raw Play Store data into meaningful insights to support business decision-making and market strategy development.
+
+It focuses on:
+
+App install trends
+
+Category-wise performance
+
+Pricing analysis
+
+User ratings & review behavior
+
+Content rating distribution
+
+🎯 Business Objective
+
+The objective of this project is to:
+
+Identify high-performing app categories
+
+Analyze pricing strategies of paid vs free apps
+
+Study user rating distribution
+
+Understand review engagement patterns
+
+Enable data-driven strategic decisions
 
 📈 Key Performance Indicators (KPIs)
 
@@ -13,63 +40,97 @@ The objective is to uncover insights about installs, ratings, pricing trends, an
 
 ⭐ 4.27 Average Rating
 
-📊 Key Insights
+📊 Key Insights Derived
 
-🎮 GAME category has the highest installs and reviews.
+🎮 The Game category dominates in installs and reviews
 
-👨‍👩‍👧 "Everyone" content rating dominates the platform.
+👨‍👩‍👧 “Everyone” content rating represents the majority of apps
 
-💰 Paid apps show different pricing distribution compared to free apps.
+💰 Paid apps follow distinct pricing distribution patterns
 
-📊 Review trends highlight strong engagement across major categories.
+📊 Review analysis reveals strong engagement in specific categories
+
+📈 Category-wise trends help understand market positioning
 
 🛠 Tools & Technologies Used
 
-Power BI
+Power BI – Dashboard Development
 
-Power Query
+Power Query – Data Cleaning & Transformation
 
-DAX (Data Analysis Expressions)
+DAX – KPI & Measure Creation
 
-Data Modeling
+Microsoft Excel – Data Preparation
 
-Interactive Data Visualization
+Data Modeling Techniques
 
 📂 Project Structure
 
-Project_Data/
+App-Analytics-Dashboard/
 
-├── dataset.csv
-├── icon.png
-├── Play_store.pbix
 ├── Dashbord.png
-└── README.md
+├── Play_store.pbix
+├── README.md
 
-💼 Business Objective
-
-Analyze mobile app market data to:
-
-Identify top-performing categories
-
-Compare pricing strategies
-
-Study rating distribution
-
-Extract actionable business insights
+└── Project_Data/
+  ├── cleaned_ps_data.xlsx
+  ├── cleaned_ur_data.xlsx
+  ├── Customer_Icon_Blue.png
+  ├── Dashboard_Icon_Blue.png
+  ├── Filter_Icon_Blue.png
+  ├── Map_Icon_Blue.png
+  ├── Product_Icon_Blue.png
+  ├── google-play.png
+  └── Project_layout_points (1).docx
 
 🚀 Skills Demonstrated
 
-Data Cleaning
+Data Cleaning & Transformation
+
+Data Modeling
 
 KPI Development
 
-Dashboard Design
+DAX Measures
 
-DAX Measure Creation
+Interactive Dashboard Design
 
-Business Insight Extraction
+Business Insight Generation
+
+Analytical Thinking
+
+📷 Dashboard Preview
+
+The dashboard provides a clear and interactive visualization of:
+
+Total installs by category
+
+Review distribution
+
+Pricing insights
+
+Rating performance
+
+Content rating segmentation
+
+💡 Learning Outcomes
+
+Through this project, I enhanced my skills in:
+
+Real-world dataset handling
+
+Designing business-focused dashboards
+
+Writing optimized DAX formulas
+
+Creating visually structured reports
+
+Extracting actionable insights from data
 
 👨‍💻 Author
 
-Raushan Yadav
+Raushan Kumar
 Aspiring Data Analyst | Power BI Developer
+
+📊 Skilled in: Power BI, Excel, DAX, Data Cleaning
+📈 Interested in: Data Analytics, Business Intelligence, Data Visualization
